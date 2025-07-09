@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+# Ignore models folder
+models/
+
+# Ignore YOLO weights
+yolov8x.pt
+
+# Ignore common Python cache and logs
+_pycache_/
+*.pyc
+*.log
+
+# Ignore output files
+output_videos/
+*.avi
+*.jpeg
